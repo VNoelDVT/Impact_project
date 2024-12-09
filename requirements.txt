@@ -1,0 +1,12 @@
+transformers
+numpy<2
+torch==2.0.1  
+torchvision 
+scikit-learn
+streamlit
+sentence_transformers
+rouge-score
+nltk
+scipy
+levenshtein
+openpyxl
